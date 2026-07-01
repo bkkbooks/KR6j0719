@@ -1,0 +1,90 @@
+canonical_identifier: bkk:krp/KR6j0719/X/v1
+canonical_location: https://kanripo.org/bkk/KR6j0719/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 楞嚴經勢至圓通章疏鈔
+  identifiers:
+    krp: KR6j0719
+    cbeta: X16n0311
+    cbeta_old_id: X16n0311
+    authorityid: CA0001983
+    json_key: X0311
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X16/X16n0311.xml
+    old_id: X16n0311
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0719_000-X.yaml, hash: 'sha256:4cadb12d05178d3c7e603a848414ed083067a7488d8952984def390fefec2307'}
+  - {seq: 1, filename: KR6j0719_001-X.yaml, hash: 'sha256:c5c13be3a227adc46b1b26e326a0c742553c75ef6f7ca88246e3bae5670600a5'}
+  - {seq: 2, filename: KR6j0719_002-X.yaml, hash: 'sha256:3ab69437f920acfc1ed8575c4a71c70607b996af4c5ad19a14d3ce519b469108'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6j0719_000-X.markers.yaml, hash: 'sha256:fdcb0bc9e4b4f00185414cb0817ded6758d78c452e2daac475d57906dafef3c3'}
+  - {seq: 1, role: markers, filename: assets/KR6j0719_001-X.markers.yaml, hash: 'sha256:84a0c3eea45876ebfcec0a458eec148c7f2ceebbe9b2714f3dae1df918c9f41e'}
+  - {seq: 2, role: markers, filename: assets/KR6j0719_002-X.markers.yaml, hash: 'sha256:6e8b7946c473437c6294208c639245cafc2d88d9678511e97dbf4f8562dda2cc'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6j0719_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 311-A 引
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6j0719_X_000-mulu-2
+    span:
+    - front
+    - 471
+    - 471
+  label: No. 311-B 念佛圓通章　日誦式
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6j0719_X_000-mulu-3
+    span:
+    - front
+    - 2615
+    - 2615
+  label: 楞嚴經勢至念佛圓通章疏鈔
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6j0719_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 10344
+  label: 楞嚴經勢至念佛圓通章疏鈔卷上
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0719_X_002-juan-start
+    span:
+    - body
+    - 0
+    - 13432
+  label: 楞嚴經勢至念佛圓通章疏鈔卷下
+  type: juan
+  level: 1
+- ref:
+    seq: 2
+    marker_id: KR6j0719_X_002-mulu-1
+    span:
+    - body
+    - 12964
+    - 12964
+  label: No. 311-C 刻勢至疏鈔緣起
+  type: mulu
+  level: 1
+hash: sha256:67af518c7e012257f273a2ad319aa8305cba6f97999f76d25e9ce2fcd227e651
