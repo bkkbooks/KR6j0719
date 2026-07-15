@@ -2,7 +2,7 @@ canonical_identifier: bkk:krp/KR6j0719/v1
 canonical_location: https://kanripo.org/bkk/KR6j0719/v1
 canonical_set:
   identifier: bkk:charset/cjk-v1
-  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+  hash: sha256:37995e65f5e6cdc8cfbc980fea50ec86663e3e7de950809f7e37f003754b3227
 metadata:
   title: 楞嚴經勢至圓通章疏鈔
   identifiers:
@@ -21,13 +21,13 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6j0719_000.yaml, hash: 'sha256:4cadb12d05178d3c7e603a848414ed083067a7488d8952984def390fefec2307'}
-  - {seq: 1, filename: KR6j0719_001.yaml, hash: 'sha256:c5c13be3a227adc46b1b26e326a0c742553c75ef6f7ca88246e3bae5670600a5'}
-  - {seq: 2, filename: KR6j0719_002.yaml, hash: 'sha256:3ab69437f920acfc1ed8575c4a71c70607b996af4c5ad19a14d3ce519b469108'}
+  - {seq: 0, filename: KR6j0719_000.yaml, hash: 'sha256:add54befb4e118067925e68a20c951e50831df90e9541d51d44747fbcfcc343f'}
+  - {seq: 1, filename: KR6j0719_001.yaml, hash: 'sha256:5c7e6f7d11ac096541a86ad988eaf8521527cdd3223fafa84eb1ddc50e7e0502'}
+  - {seq: 2, filename: KR6j0719_002.yaml, hash: 'sha256:8cc2b2169f0088f8881c965e58272c903373a8a0e66e2733d398b9bf82825c1b'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6j0719_000.markers.yaml, hash: 'sha256:71daf18d58104974ea926a50ab6a0c295452b648ebfccb0a8b1efcef804f9aac'}
-  - {seq: 1, role: markers, filename: assets/KR6j0719_001.markers.yaml, hash: 'sha256:929dc425be11b8d65fd77b1755ca3a08e04ae2f2722f6acbc4395bf76d371f5d'}
-  - {seq: 2, role: markers, filename: assets/KR6j0719_002.markers.yaml, hash: 'sha256:aafcdae696201f446f806e9bf57a316eb82d0b2b3ed9bd7efe732635692b45fb'}
+  - {seq: 0, role: markers, filename: assets/KR6j0719_000.markers.yaml, hash: 'sha256:c5a34db12adaa823a0f3e23cf9a3efb2eec782cfbcc825538e753249d29ff0fe'}
+  - {seq: 1, role: markers, filename: assets/KR6j0719_001.markers.yaml, hash: 'sha256:aa11bf07264f31025462432d0d86bd7b99584230b64b50bd79192fe21f0568f4'}
+  - {seq: 2, role: markers, filename: assets/KR6j0719_002.markers.yaml, hash: 'sha256:1dbfcdeb711b554242000a613d3088a15f9a66117e7f21298e175e88574ffdd0'}
 table_of_contents:
 - ref:
     seq: 0
@@ -89,4 +89,7 @@ table_of_contents:
   label: No. 311-C 刻勢至疏鈔緣起
   type: mulu
   level: 1
-hash: sha256:5801852ac3676fc0bee98e525828461bd4bb16d0cd6f0ca6823488bdd493f52f
+hash: sha256:4e99828d1bca18fb2545f1deb5d6b16776211bde5eb29638234f1bf366ff152d
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
