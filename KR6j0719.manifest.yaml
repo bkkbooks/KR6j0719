@@ -21,11 +21,11 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6j0719_000.yaml, hash: 'sha256:add54befb4e118067925e68a20c951e50831df90e9541d51d44747fbcfcc343f'}
+  - {seq: 0, filename: KR6j0719_000.yaml, hash: 'sha256:7784cbb3e23bf3ff261eace91bd25b173931af7ff9c6533a5780518436e10413'}
   - {seq: 1, filename: KR6j0719_001.yaml, hash: 'sha256:5c7e6f7d11ac096541a86ad988eaf8521527cdd3223fafa84eb1ddc50e7e0502'}
   - {seq: 2, filename: KR6j0719_002.yaml, hash: 'sha256:8cc2b2169f0088f8881c965e58272c903373a8a0e66e2733d398b9bf82825c1b'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6j0719_000.markers.yaml, hash: 'sha256:c5a34db12adaa823a0f3e23cf9a3efb2eec782cfbcc825538e753249d29ff0fe'}
+  - {seq: 0, role: markers, filename: assets/KR6j0719_000.markers.yaml, hash: 'sha256:2f9b941169d139950f04527dc747db8deeba616cc77d04216af7e64d92c2a734'}
   - {seq: 1, role: markers, filename: assets/KR6j0719_001.markers.yaml, hash: 'sha256:aa11bf07264f31025462432d0d86bd7b99584230b64b50bd79192fe21f0568f4'}
   - {seq: 2, role: markers, filename: assets/KR6j0719_002.markers.yaml, hash: 'sha256:1dbfcdeb711b554242000a613d3088a15f9a66117e7f21298e175e88574ffdd0'}
 table_of_contents:
@@ -33,7 +33,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0719_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 311-A 引
@@ -43,7 +43,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0719_X_000-mulu-2
     span:
-    - front
+    - body
     - 471
     - 471
   label: No. 311-B 念佛圓通章　日誦式
@@ -53,7 +53,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0719_X_000-mulu-3
     span:
-    - front
+    - body
     - 2615
     - 2615
   label: 楞嚴經勢至念佛圓通章疏鈔
@@ -89,7 +89,7 @@ table_of_contents:
   label: No. 311-C 刻勢至疏鈔緣起
   type: mulu
   level: 1
-hash: sha256:4e99828d1bca18fb2545f1deb5d6b16776211bde5eb29638234f1bf366ff152d
+hash: sha256:be5220c564baf82ae5675caf9f3c48b0275beb34ea37531689ace9195d5fdbc4
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20

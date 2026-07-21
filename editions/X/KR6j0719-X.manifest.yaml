@@ -19,11 +19,11 @@ metadata:
     short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6j0719_000-X.yaml, hash: 'sha256:4cadb12d05178d3c7e603a848414ed083067a7488d8952984def390fefec2307'}
+  - {seq: 0, filename: KR6j0719_000-X.yaml, hash: 'sha256:ba756a52316a8b40900e602b9f0c88c8ae5022626bff1630262c36068b4df126'}
   - {seq: 1, filename: KR6j0719_001-X.yaml, hash: 'sha256:c5c13be3a227adc46b1b26e326a0c742553c75ef6f7ca88246e3bae5670600a5'}
   - {seq: 2, filename: KR6j0719_002-X.yaml, hash: 'sha256:3ab69437f920acfc1ed8575c4a71c70607b996af4c5ad19a14d3ce519b469108'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6j0719_000-X.markers.yaml, hash: 'sha256:fdcb0bc9e4b4f00185414cb0817ded6758d78c452e2daac475d57906dafef3c3'}
+  - {seq: 0, role: markers, filename: assets/KR6j0719_000-X.markers.yaml, hash: 'sha256:e17f690054b6dc880847e03e05d22bd2d983ce781785d72d5fa2a1d86571993e'}
   - {seq: 1, role: markers, filename: assets/KR6j0719_001-X.markers.yaml, hash: 'sha256:84a0c3eea45876ebfcec0a458eec148c7f2ceebbe9b2714f3dae1df918c9f41e'}
   - {seq: 2, role: markers, filename: assets/KR6j0719_002-X.markers.yaml, hash: 'sha256:6e8b7946c473437c6294208c639245cafc2d88d9678511e97dbf4f8562dda2cc'}
 table_of_contents:
@@ -31,7 +31,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0719_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 311-A 引
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0719_X_000-mulu-2
     span:
-    - front
+    - body
     - 471
     - 471
   label: No. 311-B 念佛圓通章　日誦式
@@ -51,7 +51,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6j0719_X_000-mulu-3
     span:
-    - front
+    - body
     - 2615
     - 2615
   label: 楞嚴經勢至念佛圓通章疏鈔
@@ -87,4 +87,4 @@ table_of_contents:
   label: No. 311-C 刻勢至疏鈔緣起
   type: mulu
   level: 1
-hash: sha256:67af518c7e012257f273a2ad319aa8305cba6f97999f76d25e9ce2fcd227e651
+hash: sha256:69a07c07a386e948aefa128f2b236840d6a4c0d6dc1cdd7a04d77967ca736574
